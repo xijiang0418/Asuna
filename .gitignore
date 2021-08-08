@@ -5,6 +5,9 @@
 # IntelliJ project files
 .idea
 *.iml
-out/
-lib/
-target/
+*.csv
+*.xlsx
+*.dat
+out
+lib
+target
